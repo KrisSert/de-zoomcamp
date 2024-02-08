@@ -1,0 +1,9 @@
+[submodule "de-zoomcamp-3-data-warehouse"]
+	path = de-zoomcamp-3-data-warehouse
+	url = https://github.com/KrisSert/de-zoomcamp-3-data-warehouse.git
+[submodule "de-zoomcamp-1-docker-terraform"]
+	path = de-zoomcamp-1-docker-terraform
+	url = https://github.com/KrisSert/de-zoomcamp-1-docker-terraform.git
+[submodule "de-zoomcamp-2-mage-zoomcamp"]
+	path = de-zoomcamp-2-mage-zoomcamp
+	url = https://github.com/KrisSert/de-zoomcamp-2-mage-zoomcamp.git
