@@ -5,3 +5,6 @@
 [submodule "de-zoomcamp-2-mage-zoomcamp"]
 	path = de-zoomcamp-2-mage-zoomcamp
 	url = https://github.com/KrisSert/de-zoomcamp-2-mage-zoomcamp.git
+[submodule "de-zoomcamp-3-data-warehouse"]
+	path = de-zoomcamp-3-data-warehouse
+	url = https://github.com/KrisSert/de-zoomcamp-3-data-warehouse.git
